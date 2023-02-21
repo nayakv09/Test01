@@ -1,3 +1,4 @@
 Text
 Text line 1
 final line
+new change
